@@ -1,0 +1,14 @@
+com/chittrapp/MainApplication.java
+ com.chittrapp.MainApplication
+ com.chittrapp.MainApplication$1
+com/chittrapp/MainActivity.java
+ com.chittrapp.MainActivity
+com/chittrapp/BuildConfig.java
+ com.chittrapp.BuildConfig
+com/chittrapp/ReactNativeFlipper.java
+ com.chittrapp.ReactNativeFlipper
+ com.chittrapp.ReactNativeFlipper$1
+ com.chittrapp.ReactNativeFlipper$2
+ com.chittrapp.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
